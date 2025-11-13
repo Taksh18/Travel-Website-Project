@@ -1,7 +1,7 @@
 # Travel-Website-Project
  
 <h1 align="center">Hi 👋, I'm Taksh Patel</h1>
-<h3 align="center">A passionate frontend developer and Data analyst</h3>
+<h3 align="center">A passionate Data analyst</h3>
 
 - 🔭 I’m currently working on **Data framing and Data modeling**
 
